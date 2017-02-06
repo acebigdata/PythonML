@@ -1,0 +1,590 @@
+Contract Month,Last,Change,Open Interest,FALSE,1,3-Jan-17
+January,633,3,1489,TRUE,1,3-Jan-17
+February,629,-1,1492,TRUE,1,3-Jan-17
+March,627,-3,1279,TRUE,1,3-Jan-17
+April,610,-2,1179,TRUE,1,3-Jan-17
+May,609,-1,1143,TRUE,1,3-Jan-17
+June,608,-1,1120,TRUE,1,3-Jan-17
+July,605,unc,893,TRUE,1,3-Jan-17
+August,605,unc,869,TRUE,1,3-Jan-17
+September,605,unc,897,TRUE,1,3-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,2,4-Jan-17
+January,633,unc,1506,TRUE,2,4-Jan-17
+February,629,unc,1382,TRUE,2,4-Jan-17
+March,627,unc,1268,TRUE,2,4-Jan-17
+April,610,unc,1334,TRUE,2,4-Jan-17
+May,609,unc,1339,TRUE,2,4-Jan-17
+June,608,unc,1301,TRUE,2,4-Jan-17
+July,605,unc,971,TRUE,2,4-Jan-17
+August,605,unc,907,TRUE,2,4-Jan-17
+September,605,unc,897,TRUE,2,4-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,3,5-Jan-17
+January,628,-5,1506,TRUE,3,5-Jan-17
+February,629,unc,1382,TRUE,3,5-Jan-17
+March,627,unc,1268,TRUE,3,5-Jan-17
+April,612,2,1334,TRUE,3,5-Jan-17
+May,611,2,1339,TRUE,3,5-Jan-17
+June,610,2,1301,TRUE,3,5-Jan-17
+July,607,2,971,TRUE,3,5-Jan-17
+August,610,5,907,TRUE,3,5-Jan-17
+September,610,5,897,TRUE,3,5-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,4,9-Jan-17
+January,625,-3,1506,TRUE,4,9-Jan-17
+February,629,unc,1477,TRUE,4,9-Jan-17
+March,627,unc,1268,TRUE,4,9-Jan-17
+April,618,2,1334,TRUE,4,9-Jan-17
+May,617,6,1339,TRUE,4,9-Jan-17
+June,615,5,1301,TRUE,4,9-Jan-17
+July,615,8,971,TRUE,4,9-Jan-17
+August,615,5,907,TRUE,4,9-Jan-17
+September,609,-1,877,TRUE,4,9-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,5,11-Jan-17
+January,625,unc,1506,TRUE,5,11-Jan-17
+February,639,10,1477,TRUE,5,11-Jan-17
+March,634,7,1268,TRUE,5,11-Jan-17
+April,622,4,1334,TRUE,5,11-Jan-17
+May,620,3,1339,TRUE,5,11-Jan-17
+June,618,3,1301,TRUE,5,11-Jan-17
+July,615,unc,971,TRUE,5,11-Jan-17
+August,615,unc,907,TRUE,5,11-Jan-17
+September,608,-1,877,TRUE,5,11-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,6,12-Jan-17
+January,622,-3,1506,TRUE,6,12-Jan-17
+February,642,3,1477,TRUE,6,12-Jan-17
+March,636,2,1278,TRUE,6,12-Jan-17
+April,624,2,1334,TRUE,6,12-Jan-17
+May,622,2,1339,TRUE,6,12-Jan-17
+June,605,-13,1301,TRUE,6,12-Jan-17
+July,617,unc,971,TRUE,6,12-Jan-17
+August,617,unc,907,TRUE,6,12-Jan-17
+September,610,2,877,TRUE,6,12-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,7,13-Jan-17
+January,622,unc,1506,TRUE,7,13-Jan-17
+February,644,2,1477,TRUE,7,13-Jan-17
+March,634,-2,1278,TRUE,7,13-Jan-17
+April,618,-6,1334,TRUE,7,13-Jan-17
+May,614,-8,1339,TRUE,7,13-Jan-17
+June,612,7,1301,TRUE,7,13-Jan-17
+July,608,-9,971,TRUE,7,13-Jan-17
+August,608,-9,907,TRUE,7,13-Jan-17
+September,608,-2,877,TRUE,7,13-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,8,23-Jan-17
+January,620,-2,1506,TRUE,8,23-Jan-17
+February,634,-9,1477,TRUE,8,23-Jan-17
+March,620,-14,1278,TRUE,8,23-Jan-17
+April,601,-17,1334,TRUE,8,23-Jan-17
+May,595,-19,1339,TRUE,8,23-Jan-17
+June,595,-17,1301,TRUE,8,23-Jan-17
+July,595,-13,971,TRUE,8,23-Jan-17
+August,595,-13,907,TRUE,8,23-Jan-17
+September,595,-13,877,TRUE,8,23-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,9,24-Jan-17
+January,620,unc,1506,TRUE,9,24-Jan-17
+February,625,-9,1477,TRUE,9,24-Jan-17
+March,617,-3,1278,TRUE,9,24-Jan-17
+April,600,-1,1334,TRUE,9,24-Jan-17
+May,595,unc,1339,TRUE,9,24-Jan-17
+June,590,-5,1301,TRUE,9,24-Jan-17
+July,590,-5,971,TRUE,9,24-Jan-17
+August,580,-15,907,TRUE,9,24-Jan-17
+September,580,-15,877,TRUE,9,24-Jan-17
+Contract Month,Last,Change,Open Interest,FALSE,10,1-Sep-16
+September,555,unc,1996,TRUE,10,1-Sep-16
+October,530,unc,2454,TRUE,10,1-Sep-16
+November,530,unc,2016,TRUE,10,1-Sep-16
+December,530,5,1807,TRUE,10,1-Sep-16
+January,527,unc,1184,TRUE,10,1-Sep-16
+February,527,unc,1134,TRUE,10,1-Sep-16
+March,527,unc,1030,TRUE,10,1-Sep-16
+April,533,unc,885,TRUE,10,1-Sep-16
+May,533,Unc,885,TRUE,10,1-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,11,6-Sep-16
+September,555,unc,1996,TRUE,11,6-Sep-16
+October,530,unc,2454,TRUE,11,6-Sep-16
+November,530,unc,2016,TRUE,11,6-Sep-16
+December,530,unc,1807,TRUE,11,6-Sep-16
+January,527,unc,1184,TRUE,11,6-Sep-16
+February,527,unc,1134,TRUE,11,6-Sep-16
+March,527,unc,1030,TRUE,11,6-Sep-16
+April,533,unc,885,TRUE,11,6-Sep-16
+May,533,Unc,885,TRUE,11,6-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,12,7-Sep-16
+September,555,unc,1996,TRUE,12,7-Sep-16
+October,530,unc,2429,TRUE,12,7-Sep-16
+November,530,unc,1991,TRUE,12,7-Sep-16
+December,530,unc,1782,TRUE,12,7-Sep-16
+January,527,unc,1197,TRUE,12,7-Sep-16
+February,527,unc,1147,TRUE,12,7-Sep-16
+March,527,unc,1043,TRUE,12,7-Sep-16
+April,520,-13,898,TRUE,12,7-Sep-16
+May,520,-13,898,TRUE,12,7-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,13,8-Sep-16
+September,555,unc,1996,TRUE,13,8-Sep-16
+October,530,unc,2429,TRUE,13,8-Sep-16
+November,530,unc,1991,TRUE,13,8-Sep-16
+December,530,unc,1782,TRUE,13,8-Sep-16
+January,527,unc,1197,TRUE,13,8-Sep-16
+February,527,unc,1155,TRUE,13,8-Sep-16
+March,519,-8,1043,TRUE,13,8-Sep-16
+April,518,-2,904,TRUE,13,8-Sep-16
+May,518,-2,898,TRUE,13,8-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,14,9-Sep-16
+September,550,-5,1996,TRUE,14,9-Sep-16
+October,520,-10,2429,TRUE,14,9-Sep-16
+November,520,-10,1991,TRUE,14,9-Sep-16
+December,520,-10,1782,TRUE,14,9-Sep-16
+January,515,-12,1197,TRUE,14,9-Sep-16
+February,515,-12,1155,TRUE,14,9-Sep-16
+March,515,-4,1043,TRUE,14,9-Sep-16
+April,515,-3,904,TRUE,14,9-Sep-16
+May,515,-3,898,TRUE,14,9-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,15,12-Sep-16
+September,550,unc,1996,TRUE,15,12-Sep-16
+October,520,unc,2429,TRUE,15,12-Sep-16
+November,520,unc,1991,TRUE,15,12-Sep-16
+December,520,unc,1782,TRUE,15,12-Sep-16
+January,515,unc,1197,TRUE,15,12-Sep-16
+February,515,unc,1155,TRUE,15,12-Sep-16
+March,515,unc,1043,TRUE,15,12-Sep-16
+April,515,unc,904,TRUE,15,12-Sep-16
+May,515,unc,898,TRUE,15,12-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,16,13-Sep-16
+September,550,unc,1996,TRUE,16,13-Sep-16
+October,520,unc,2429,TRUE,16,13-Sep-16
+November,520,unc,1991,TRUE,16,13-Sep-16
+December,520,unc,1782,TRUE,16,13-Sep-16
+January,518,3,1197,TRUE,16,13-Sep-16
+February,518,3,1155,TRUE,16,13-Sep-16
+March,518,3,1043,TRUE,16,13-Sep-16
+April,515,unc,904,TRUE,16,13-Sep-16
+May,515,unc,898,TRUE,16,13-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,17,16-Sep-16
+September,545,-5,1996,TRUE,17,16-Sep-16
+October,512,-8,2488,TRUE,17,16-Sep-16
+November,512,-8,2007,TRUE,17,16-Sep-16
+December,512,-8,1790,TRUE,17,16-Sep-16
+January,518,-8,1249,TRUE,17,16-Sep-16
+February,518,-8,1233,TRUE,17,16-Sep-16
+March,518,-8,1120,TRUE,17,16-Sep-16
+April,510,-5,980,TRUE,17,16-Sep-16
+May,510,-5,973,TRUE,17,16-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,18,20-Sep-16
+September,545,unc,1996,TRUE,18,20-Sep-16
+October,512,unc,2488,TRUE,18,20-Sep-16
+November,512,unc,2007,TRUE,18,20-Sep-16
+December,512,unc,1790,TRUE,18,20-Sep-16
+January,510,unc,1249,TRUE,18,20-Sep-16
+February,510,unc,1233,TRUE,18,20-Sep-16
+March,510,unc,1120,TRUE,18,20-Sep-16
+April,510,unc,980,TRUE,18,20-Sep-16
+May,510,unc,973,TRUE,18,20-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,19,21-Sep-16
+September,545,unc,1996,TRUE,19,21-Sep-16
+October,505,-7,2455,TRUE,19,21-Sep-16
+November,505,-7,1989,TRUE,19,21-Sep-16
+December,505,-7,1792,TRUE,19,21-Sep-16
+January,503,-7,1269,TRUE,19,21-Sep-16
+February,503,-7,1233,TRUE,19,21-Sep-16
+March,503,-7,1120,TRUE,19,21-Sep-16
+April,503,-7,1008,TRUE,19,21-Sep-16
+May,503,-7,1001,TRUE,19,21-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,20,22-Sep-16
+September,542,-3,1996,TRUE,20,22-Sep-16
+October,502,-3,2455,TRUE,20,22-Sep-16
+November,502,-3,1989,TRUE,20,22-Sep-16
+December,502,-3,1792,TRUE,20,22-Sep-16
+January,500,-3,1274,TRUE,20,22-Sep-16
+February,498,-5,1248,TRUE,20,22-Sep-16
+March,498,-5,1125,TRUE,20,22-Sep-16
+April,495,-8,1008,TRUE,20,22-Sep-16
+May,494,-9,991,TRUE,20,22-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,21,26-Sep-16
+September,542,unc,1996,TRUE,21,26-Sep-16
+October,502,unc,2455,TRUE,21,26-Sep-16
+November,502,unc,1989,TRUE,21,26-Sep-16
+December,502,unc,1792,TRUE,21,26-Sep-16
+January,498,-2,1274,TRUE,21,26-Sep-16
+February,497,-1,1248,TRUE,21,26-Sep-16
+March,496,-2,1125,TRUE,21,26-Sep-16
+April,495,unc,1008,TRUE,21,26-Sep-16
+May,495,1,991,TRUE,21,26-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,22,28-Sep-16
+October,502,unc,2450,TRUE,22,28-Sep-16
+November,501,-1,1989,TRUE,22,28-Sep-16
+December,498,-4,1792,TRUE,22,28-Sep-16
+January,497,-1,1274,TRUE,22,28-Sep-16
+February,496,-1,1248,TRUE,22,28-Sep-16
+March,495,-1,1125,TRUE,22,28-Sep-16
+April,494,-1,1008,TRUE,22,28-Sep-16
+May,494,-1,991,TRUE,22,28-Sep-16
+June,494,-1,971,TRUE,22,28-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,23,29-Sep-16
+October,495,-7,2450,TRUE,23,29-Sep-16
+November,495,-6,2017,TRUE,23,29-Sep-16
+December,495,-3,1820,TRUE,23,29-Sep-16
+January,494,-3,1302,TRUE,23,29-Sep-16
+February,494,-2,1263,TRUE,23,29-Sep-16
+March,494,-1,1140,TRUE,23,29-Sep-16
+April,493,-1,1033,TRUE,23,29-Sep-16
+May,493,-1,1016,TRUE,23,29-Sep-16
+June,493,-1,971,TRUE,23,29-Sep-16
+Contract Month,Last,Change,Open Interest,FALSE,24,4-Oct-16
+October,496,unc,2495,TRUE,24,4-Oct-16
+November,490,unc,2162,TRUE,24,4-Oct-16
+December,486,unc,1905,TRUE,24,4-Oct-16
+January,485,-5,1367,TRUE,24,4-Oct-16
+February,485,-5,1328,TRUE,24,4-Oct-16
+March,485,-5,1205,TRUE,24,4-Oct-16
+April,485,-5,1063,TRUE,24,4-Oct-16
+May,485,-5,1046,TRUE,24,4-Oct-16
+June,485,-7,996,TRUE,24,4-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,25,6-Oct-16
+October,491,-5,2490,TRUE,25,6-Oct-16
+November,490,unc,2162,TRUE,25,6-Oct-16
+December,486,unc,1905,TRUE,25,6-Oct-16
+January,488,3,1375,TRUE,25,6-Oct-16
+February,488,3,1328,TRUE,25,6-Oct-16
+March,488,3,1205,TRUE,25,6-Oct-16
+April,488,3,1063,TRUE,25,6-Oct-16
+May,488,3,1046,TRUE,25,6-Oct-16
+June,488,3,996,TRUE,25,6-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,26,11-Oct-16
+October,487,-4,2455,TRUE,26,11-Oct-16
+November,486,-2,2162,TRUE,26,11-Oct-16
+December,485,-1,1900,TRUE,26,11-Oct-16
+January,488,unc,1375,TRUE,26,11-Oct-16
+February,488,unc,1343,TRUE,26,11-Oct-16
+March,488,unc,1220,TRUE,26,11-Oct-16
+April,485,-3,1082,TRUE,26,11-Oct-16
+May,485,-3,1065,TRUE,26,11-Oct-16
+June,485,-3,1015,TRUE,26,11-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,27,12-Oct-16
+October,487,unc,2455,TRUE,27,12-Oct-16
+November,486,unc,2162,TRUE,27,12-Oct-16
+December,485,unc,1900,TRUE,27,12-Oct-16
+January,488,unc,1375,TRUE,27,12-Oct-16
+February,488,unc,1343,TRUE,27,12-Oct-16
+March,488,unc,1220,TRUE,27,12-Oct-16
+April,485,unc,1082,TRUE,27,12-Oct-16
+May,485,unc,1065,TRUE,27,12-Oct-16
+June,485,unc,1015,TRUE,27,12-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,28,17-Oct-16
+October,491,4,2455,TRUE,28,17-Oct-16
+November,482,-4,2162,TRUE,28,17-Oct-16
+December,482,-3,1900,TRUE,28,17-Oct-16
+January,485,-3,1375,TRUE,28,17-Oct-16
+February,485,-3,1343,TRUE,28,17-Oct-16
+March,485,-3,1220,TRUE,28,17-Oct-16
+April,485,unc,1082,TRUE,28,17-Oct-16
+May,485,unc,1065,TRUE,28,17-Oct-16
+June,485,unc,1015,TRUE,28,17-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,29,18-Oct-16
+October,491,unc,2575,TRUE,29,18-Oct-16
+November,480,-2,2293,TRUE,29,18-Oct-16
+December,482,unc,1962,TRUE,29,18-Oct-16
+January,485,unc,1458,TRUE,29,18-Oct-16
+February,485,unc,1418,TRUE,29,18-Oct-16
+March,485,unc,1293,TRUE,29,18-Oct-16
+April,485,unc,1139,TRUE,29,18-Oct-16
+May,485,unc,1130,TRUE,29,18-Oct-16
+June,485,unc,1058,TRUE,29,18-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,30,19-Oct-16
+October,490,-1,2575,TRUE,30,19-Oct-16
+November,483,3,2293,TRUE,30,19-Oct-16
+December,483,1,1962,TRUE,30,19-Oct-16
+January,490,5,1458,TRUE,30,19-Oct-16
+February,490,5,1418,TRUE,30,19-Oct-16
+March,490,5,1293,TRUE,30,19-Oct-16
+April,493,8,1139,TRUE,30,19-Oct-16
+May,493,8,1130,TRUE,30,19-Oct-16
+June,493,8,1058,TRUE,30,19-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,31,20-Oct-16
+October,490,unc,2575,TRUE,31,20-Oct-16
+November,483,unc,2298,TRUE,31,20-Oct-16
+December,483,unc,1962,TRUE,31,20-Oct-16
+January,490,unc,1458,TRUE,31,20-Oct-16
+February,490,unc,1418,TRUE,31,20-Oct-16
+March,490,unc,1293,TRUE,31,20-Oct-16
+April,493,unc,1139,TRUE,31,20-Oct-16
+May,493,unc,1130,TRUE,31,20-Oct-16
+June,493,unc,1058,TRUE,31,20-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,32,21-Oct-16
+October,490,unc,2575,TRUE,32,21-Oct-16
+November,487,4,2298,TRUE,32,21-Oct-16
+December,495,12,1962,TRUE,32,21-Oct-16
+January,505,15,1458,TRUE,32,21-Oct-16
+February,505,15,1418,TRUE,32,21-Oct-16
+March,505,15,1293,TRUE,32,21-Oct-16
+April,505,12,1139,TRUE,32,21-Oct-16
+May,505,12,1130,TRUE,32,21-Oct-16
+June,505,12,1058,TRUE,32,21-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,33,24-Oct-16
+October,490,unc,2575,TRUE,33,24-Oct-16
+November,497,10,2393,TRUE,33,24-Oct-16
+December,505,10,1942,TRUE,33,24-Oct-16
+January,520,15,1438,TRUE,33,24-Oct-16
+February,520,15,1402,TRUE,33,24-Oct-16
+March,520,15,1263,TRUE,33,24-Oct-16
+April,520,15,1139,TRUE,33,24-Oct-16
+May,520,15,1114,TRUE,33,24-Oct-16
+June,520,15,1042,TRUE,33,24-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,34,25-Oct-16
+October,490,unc,2575,TRUE,34,25-Oct-16
+November,497,unc,2393,TRUE,34,25-Oct-16
+December,505,unc,1942,TRUE,34,25-Oct-16
+January,520,unc,1438,TRUE,34,25-Oct-16
+February,520,unc,1402,TRUE,34,25-Oct-16
+March,520,unc,1263,TRUE,34,25-Oct-16
+April,520,unc,1139,TRUE,34,25-Oct-16
+May,520,unc,1114,TRUE,34,25-Oct-16
+June,520,unc,1042,TRUE,34,25-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,35,26-Oct-16
+November,497,unc,2393,TRUE,35,26-Oct-16
+December,510,5,1924,TRUE,35,26-Oct-16
+January,525,5,1441,TRUE,35,26-Oct-16
+February,522,2,1402,TRUE,35,26-Oct-16
+March,516,-4,1263,TRUE,35,26-Oct-16
+April,516,-4,1139,TRUE,35,26-Oct-16
+May,516,-4,1114,TRUE,35,26-Oct-16
+June,516,-4,1042,TRUE,35,26-Oct-16
+July,519,-1,895,TRUE,35,26-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,36,31-Oct-16
+November,492,-5,2393,TRUE,36,31-Oct-16
+December,510,unc,1924,TRUE,36,31-Oct-16
+January,520,-15,1443,TRUE,36,31-Oct-16
+February,520,-2,1399,TRUE,36,31-Oct-16
+March,525,9,1263,TRUE,36,31-Oct-16
+April,525,9,1139,TRUE,36,31-Oct-16
+May,525,9,1114,TRUE,36,31-Oct-16
+June,525,9,1052,TRUE,36,31-Oct-16
+July,525,6,895,TRUE,36,31-Oct-16
+Contract Month,Last,Change,Open Interest,FALSE,37,1-Nov-16
+November,492,unc,2393,TRUE,37,1-Nov-16
+December,510,unc,1924,TRUE,37,1-Nov-16
+January,520,unc,1443,TRUE,37,1-Nov-16
+February,520,unc,1399,TRUE,37,1-Nov-16
+March,525,unc,1263,TRUE,37,1-Nov-16
+April,525,unc,1139,TRUE,37,1-Nov-16
+May,525,unc,1114,TRUE,37,1-Nov-16
+June,525,unc,1052,TRUE,37,1-Nov-16
+July,525,unc,895,TRUE,37,1-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,38,2-Nov-16
+November,492,unc,2393,TRUE,38,2-Nov-16
+December,510,unc,1924,TRUE,38,2-Nov-16
+January,535,15,1443,TRUE,38,2-Nov-16
+February,535,15,1399,TRUE,38,2-Nov-16
+March,535,10,1263,TRUE,38,2-Nov-16
+April,525,unc,1139,TRUE,38,2-Nov-16
+May,525,unc,1114,TRUE,38,2-Nov-16
+June,525,unc,1052,TRUE,38,2-Nov-16
+July,525,unc,895,TRUE,38,2-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,39,3-Nov-16
+November,492,unc,2393,TRUE,39,3-Nov-16
+December,510,unc,1924,TRUE,39,3-Nov-16
+January,535,unc,1443,TRUE,39,3-Nov-16
+February,535,unc,1399,TRUE,39,3-Nov-16
+March,535,unc,1263,TRUE,39,3-Nov-16
+April,525,unc,1139,TRUE,39,3-Nov-16
+May,525,unc,1114,TRUE,39,3-Nov-16
+June,525,unc,1052,TRUE,39,3-Nov-16
+July,525,unc,895,TRUE,39,3-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,40,4-Nov-16
+November,492,unc,2393,TRUE,40,4-Nov-16
+December,510,unc,1924,TRUE,40,4-Nov-16
+January,535,unc,1443,TRUE,40,4-Nov-16
+February,535,unc,1399,TRUE,40,4-Nov-16
+March,535,unc,1263,TRUE,40,4-Nov-16
+April,525,unc,1139,TRUE,40,4-Nov-16
+May,525,unc,1114,TRUE,40,4-Nov-16
+June,525,unc,1052,TRUE,40,4-Nov-16
+July,525,unc,895,TRUE,40,4-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,41,7-Nov-16
+November,492,unc,2393,TRUE,41,7-Nov-16
+December,510,unc,1924,TRUE,41,7-Nov-16
+January,535,unc,1443,TRUE,41,7-Nov-16
+February,535,unc,1399,TRUE,41,7-Nov-16
+March,535,unc,1263,TRUE,41,7-Nov-16
+April,525,unc,1139,TRUE,41,7-Nov-16
+May,525,unc,1114,TRUE,41,7-Nov-16
+June,525,unc,1052,TRUE,41,7-Nov-16
+July,525,unc,895,TRUE,41,7-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,42,8-Nov-16
+November,492,unc,2393,TRUE,42,8-Nov-16
+December,510,unc,1924,TRUE,42,8-Nov-16
+January,535,unc,1443,TRUE,42,8-Nov-16
+February,535,unc,1399,TRUE,42,8-Nov-16
+March,535,unc,1263,TRUE,42,8-Nov-16
+April,525,unc,1139,TRUE,42,8-Nov-16
+May,525,unc,1114,TRUE,42,8-Nov-16
+June,525,unc,1052,TRUE,42,8-Nov-16
+July,525,unc,895,TRUE,42,8-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,43,9-Nov-16
+November,492,unc,2393,TRUE,43,9-Nov-16
+December,515,5,1924,TRUE,43,9-Nov-16
+January,540,5,1444,TRUE,43,9-Nov-16
+February,540,5,1425,TRUE,43,9-Nov-16
+March,540,5,1268,TRUE,43,9-Nov-16
+April,540,15,1144,TRUE,43,9-Nov-16
+May,540,15,1119,TRUE,43,9-Nov-16
+June,540,15,1057,TRUE,43,9-Nov-16
+July,540,15,900,TRUE,43,9-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,44,15-Nov-16
+November,492,unc,2393,TRUE,44,15-Nov-16
+December,540,20,1924,TRUE,44,15-Nov-16
+January,555,15,1444,TRUE,44,15-Nov-16
+February,555,10,1425,TRUE,44,15-Nov-16
+March,555,15,1268,TRUE,44,15-Nov-16
+April,555,20,1144,TRUE,44,15-Nov-16
+May,565,25,1119,TRUE,44,15-Nov-16
+June,555,15,1057,TRUE,44,15-Nov-16
+July,555,10,900,TRUE,44,15-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,45,16-Nov-16
+November,492,unc,2393,TRUE,45,16-Nov-16
+December,535,-5,1924,TRUE,45,16-Nov-16
+January,555,unc,1444,TRUE,45,16-Nov-16
+February,555,unc,1425,TRUE,45,16-Nov-16
+March,555,unc,1268,TRUE,45,16-Nov-16
+April,555,unc,1144,TRUE,45,16-Nov-16
+May,565,unc,1119,TRUE,45,16-Nov-16
+June,555,unc,1057,TRUE,45,16-Nov-16
+July,555,unc,900,TRUE,45,16-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,46,17-Nov-16
+November,494,2,2393,TRUE,46,17-Nov-16
+December,540,5,1924,TRUE,46,17-Nov-16
+January,570,15,1444,TRUE,46,17-Nov-16
+February,575,20,1425,TRUE,46,17-Nov-16
+March,575,20,1268,TRUE,46,17-Nov-16
+April,575,20,1144,TRUE,46,17-Nov-16
+May,575,10,1119,TRUE,46,17-Nov-16
+June,575,20,1057,TRUE,46,17-Nov-16
+July,575,20,900,TRUE,46,17-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,47,18-Nov-16
+November,494,unc,2393,TRUE,47,18-Nov-16
+December,545,5,1924,TRUE,47,18-Nov-16
+January,570,unc,1444,TRUE,47,18-Nov-16
+February,575,unc,1425,TRUE,47,18-Nov-16
+March,575,unc,1268,TRUE,47,18-Nov-16
+April,575,unc,1144,TRUE,47,18-Nov-16
+May,590,15,1119,TRUE,47,18-Nov-16
+June,575,unc,1057,TRUE,47,18-Nov-16
+July,575,unc,900,TRUE,47,18-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,48,21-Nov-16
+November,494,unc,2393,TRUE,48,21-Nov-16
+December,550,5,1924,TRUE,48,21-Nov-16
+January,570,unc,1444,TRUE,48,21-Nov-16
+February,575,unc,1425,TRUE,48,21-Nov-16
+March,575,unc,1268,TRUE,48,21-Nov-16
+April,575,unc,1144,TRUE,48,21-Nov-16
+May,590,unc,1119,TRUE,48,21-Nov-16
+June,580,5,1057,TRUE,48,21-Nov-16
+July,580,5,900,TRUE,48,21-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,49,22-Nov-16
+November,494,unc,2393,TRUE,49,22-Nov-16
+December,551,1,1924,TRUE,49,22-Nov-16
+January,570,unc,1444,TRUE,49,22-Nov-16
+February,575,unc,1425,TRUE,49,22-Nov-16
+March,575,unc,1268,TRUE,49,22-Nov-16
+April,575,unc,1144,TRUE,49,22-Nov-16
+May,590,unc,1119,TRUE,49,22-Nov-16
+June,590,10,1057,TRUE,49,22-Nov-16
+July,580,unc,900,TRUE,49,22-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,50,23-Nov-16
+November,510,16,239,TRUE,50,23-Nov-16
+December,555,4,1924,TRUE,50,23-Nov-16
+January,605,35,1444,TRUE,50,23-Nov-16
+February,605,30,1425,TRUE,50,23-Nov-16
+March,605,30,1268,TRUE,50,23-Nov-16
+April,605,30,1144,TRUE,50,23-Nov-16
+May,605,15,1119,TRUE,50,23-Nov-16
+June,605,15,1057,TRUE,50,23-Nov-16
+July,580,unc,900,TRUE,50,23-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,51,28-Nov-16
+November,510,unc,2432,TRUE,51,28-Nov-16
+December,560,5,1975,TRUE,51,28-Nov-16
+January,615,10,1569,TRUE,51,28-Nov-16
+February,615,10,1550,TRUE,51,28-Nov-16
+March,615,10,1301,TRUE,51,28-Nov-16
+April,615,10,1176,TRUE,51,28-Nov-16
+May,615,10,1141,TRUE,51,28-Nov-16
+June,610,5,1090,TRUE,51,28-Nov-16
+July,600,20,883,TRUE,51,28-Nov-16
+Contract Month,Last,Change,Open Interest,FALSE,52,1-Dec-16
+November,510,unc,2432,TRUE,52,1-Dec-16
+December,562,unc,1975,TRUE,52,1-Dec-16
+January,635,unc,1569,TRUE,52,1-Dec-16
+February,625,-10,1550,TRUE,52,1-Dec-16
+March,615,-20,1301,TRUE,52,1-Dec-16
+April,615,-20,1176,TRUE,52,1-Dec-16
+May,615,-20,1141,TRUE,52,1-Dec-16
+June,615,-20,1090,TRUE,52,1-Dec-16
+July,610,unc,883,TRUE,52,1-Dec-16
+Contract Month,Last,Change,Open Interest,FALSE,53,5-Dec-16
+November,510,unc,2432,TRUE,53,5-Dec-16
+December,562,unc,1975,TRUE,53,5-Dec-16
+January,635,unc,1569,TRUE,53,5-Dec-16
+February,625,unc,1550,TRUE,53,5-Dec-16
+March,615,unc,1301,TRUE,53,5-Dec-16
+April,615,unc,1176,TRUE,53,5-Dec-16
+May,615,unc,1141,TRUE,53,5-Dec-16
+June,615,unc,1090,TRUE,53,5-Dec-16
+July,610,unc,883,TRUE,53,5-Dec-16
+Contract Month,Last,Change,Open Interest,FALSE,54,6-Dec-16
+December,575,10,1975,TRUE,54,6-Dec-16
+January,620,-5,1561,TRUE,54,6-Dec-16
+February,620,-5,1492,TRUE,54,6-Dec-16
+March,620,5,1279,TRUE,54,6-Dec-16
+April,618,3,1179,TRUE,54,6-Dec-16
+May,615,unc,1143,TRUE,54,6-Dec-16
+June,611,-4,1120,TRUE,54,6-Dec-16
+July,604,-6,893,TRUE,54,6-Dec-16
+August,595,-9,869,TRUE,54,6-Dec-16
+Contract Month,Last,Change,Open Interest,FALSE,55,14-Dec-16
+December,572,2,1975,TRUE,55,14-Dec-16
+January,620,5,1561,TRUE,55,14-Dec-16
+February,620,5,1492,TRUE,55,14-Dec-16
+March,618,3,1279,TRUE,55,14-Dec-16
+April,613,4,1179,TRUE,55,14-Dec-16
+May,611,2,1143,TRUE,55,14-Dec-16
+June,610,1,1120,TRUE,55,14-Dec-16
+July,609,1,893,TRUE,55,14-Dec-16
+August,609,1,869,TRUE,55,14-Dec-16
+Contract Month,Last,Change,Open Interest,FALSE,56,16-Dec-16
+December,585,13,1975,TRUE,56,16-Dec-16
+January,620,unc,1561,TRUE,56,16-Dec-16
+February,625,5,1492,TRUE,56,16-Dec-16
+March,616,-2,1279,TRUE,56,16-Dec-16
+April,610,-3,1179,TRUE,56,16-Dec-16
+May,610,-1,1143,TRUE,56,16-Dec-16
+June,610,unc,1120,TRUE,56,16-Dec-16
+July,606,-3,893,TRUE,56,16-Dec-16
+August,606,-3,869,TRUE,56,16-Dec-16
+Contract Month,Last,Change,Open Interest,FALSE,57,19-Dec-16
+December,585,unc,1975,TRUE,57,19-Dec-16
+January,622,2,1561,TRUE,57,19-Dec-16
+February,627,2,1492,TRUE,57,19-Dec-16
+March,620,4,1279,TRUE,57,19-Dec-16
+April,612,2,1179,TRUE,57,19-Dec-16
+May,610,unc,1143,TRUE,57,19-Dec-16
+June,608,-2,1120,TRUE,57,19-Dec-16
+July,606,unc,893,TRUE,57,19-Dec-16
+August,606,unc,869,TRUE,57,19-Dec-16
+Contract Month,Last,Change,Open Interest,FALSE,58,20-Dec-16
+December,585,unc,1975,TRUE,58,20-Dec-16
+January,622,unc,1561,TRUE,58,20-Dec-16
+February,627,unc,1492,TRUE,58,20-Dec-16
+March,620,unc,1279,TRUE,58,20-Dec-16
+April,608,-4,1179,TRUE,58,20-Dec-16
+May,610,unc,1143,TRUE,58,20-Dec-16
+June,608,unc,1120,TRUE,58,20-Dec-16
+July,606,unc,893,TRUE,58,20-Dec-16
+August,606,unc,869,TRUE,58,20-Dec-16
+Contract Month,Last,Change,Open Interest,FALSE,59,22-Dec-16
+December,585,unc,1975,TRUE,59,22-Dec-16
+January,630,2,1489,TRUE,59,22-Dec-16
+February,630,4,1492,TRUE,59,22-Dec-16
+March,630,6,1279,TRUE,59,22-Dec-16
+April,612,unc,1179,TRUE,59,22-Dec-16
+May,600,-10,1143,TRUE,59,22-Dec-16
+June,600,-10,1120,TRUE,59,22-Dec-16
+July,600,-10,893,TRUE,59,22-Dec-16
+August,600,-10,869,TRUE,59,22-Dec-16
